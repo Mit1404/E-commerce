@@ -3,9 +3,9 @@
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASSWORD', '');
-define('DATABASE_NAME', 'khanstore');
+define('DATABASE_NAME', 'E-commerce');
 
-define('CURRENCY', '€');
+define('CURRENCY', 'Rs');
 
 
 
