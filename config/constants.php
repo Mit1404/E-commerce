@@ -5,7 +5,7 @@ define('USER', 'root');
 define('PASSWORD', '');
 define('DATABASE_NAME', 'E-commerce');
 
-define('CURRENCY', 'Rs');
+define('CURRENCY', '$');
 
 
 
