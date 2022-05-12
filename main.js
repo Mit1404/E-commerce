@@ -1,3 +1,4 @@
+const CURRENCY = "Rs";
 $(document).ready(function(){
 	cat();
 	brand();
@@ -223,7 +224,7 @@ $(document).ready(function(){
 		$('.total').each(function(){
 			net_total += ($(this).val()-0);
 		})
-		$('.net_total').html("Total : $ " +net_total);
+		$('.net_total').html("Total : "+CURRENCY+""+net_total);
 
 	})
 	//Change Quantity end here 

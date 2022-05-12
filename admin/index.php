@@ -31,7 +31,7 @@ include "./templates/top.php";
           </thead>
           <tbody id="admin_list">
             <tr>
-              <td>1,001</td>
+              <td>1</td>
               <td>Lorem</td>
               <td>ipsum</td>
               <td>dolor</td>
