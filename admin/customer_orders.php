@@ -17,7 +17,7 @@
           <thead>
             <tr>
               <th>#</th>
-              <th>Order #</th>
+              <th>Order</th>
               <th>Product Id</th>
               <th>Product Name</th>
               <th>Quantity</th>
